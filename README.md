@@ -1,7 +1,7 @@
 # Object-Detection-and-Counting-with-Detectron2
 
 
-##Installing Detectron2 on a Mac in CPU mode
+## Installing Detectron2 on a Mac in CPU mode
 Thu 25 November 2021
 At the risk of saying, “Yeah, it’s in the docs,” this is what I did. I think the crucial thing is installed things in the proper order, so I would advise going step-by-step:
 
